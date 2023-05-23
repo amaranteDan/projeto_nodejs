@@ -1,0 +1,17 @@
+npm init -> Para criar o arquivo package.json inicial.
+No package.json é possivel fazer varias configurações, como versão inicial, autor entre outros.
+
+/****Instalando Modulos****/
+npm install express --save  - Instala o express e cria ele como dependencia no package.json.
+
+/****Instalando o nodemon****/
+npm install nodemon -g  [-g para instalação global]
+
+/***Instalando a biblioteca de rotas Consign****/
+npm install consign --save
+
+/****Instalando complemento do express body-parser****/
+npm install body-parser --save
+
+/***Instalando o banco de dados NEDB****/
+npm install nedb --save
