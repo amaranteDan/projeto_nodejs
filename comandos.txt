@@ -15,3 +15,7 @@ npm install body-parser --save
 
 /***Instalando o banco de dados NEDB****/
 npm install nedb --save
+
+/****Instalar o express-validator****/
+npm install express-validator --save
+
